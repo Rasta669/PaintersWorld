@@ -6,6 +6,16 @@
 
 A hand-drawn, color-based platformer where each brushstroke unlocks creativity and exploration—turning imagination into gameplay.
 
+## How to play the Game
+
+Use `A` and `D` to navigate right and left,  ```Spacebar``` to jump. ```MouseClick``` while directing your mouse where you want your player to form a path. 
+
+You can choose the color you want from top left corner on gameplay
+- ```Purple``` for normal platform.
+- ```Yellow```, you player moves with enhanced speed.
+- ```Blue``` causes an auto jump effect to the player
+- ```Red``` temporary platform
+
 [Play link](https://rasta-bujo.itch.io/paint-your-world)
 
 ## Technologies and Engines used
