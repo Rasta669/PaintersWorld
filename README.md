@@ -69,6 +69,7 @@ You can choose the color you want from top left corner on gameplay
 - Color Challenges – leaderboard-based community events with $COLOR rewards
 - Partner with Base, Bario community & B3 for co-branded game weeks and seasonal events
 - Mobile-friendly experience to reach emerging on-chain players in Africa & Asia
+- Create mini-apps version  to unlock warpcast distribution
 
 ## Game Contributions, Collaborations, and IP
 
