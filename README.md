@@ -1,6 +1,6 @@
 # Paint Your World
 
-🎬 [Watch Paint Your World Gameplay on YouTube](https://youtu.be/QRN7zc9BvF0)
+🎬 [Watch Paint Your World LiveDemo on YouTube](https://youtu.be/QRN7zc9BvF0)
 
 
 
