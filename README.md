@@ -7,7 +7,11 @@
 A hand-drawn, color-based platformer where each brushstroke unlocks creativity and exploration—turning imagination into gameplay.
 
 ## How to play the Game
+The game is currently built for webgl, to be compatible with browser atm and you can play it [here](https://rasta-bujo.itch.io/paint-your-world). 
 
+Future builds will include Mac, Windows, IOS and Androids, PS5 and XBOX series.
+
+### Game Instructions
 Use `A` and `D` to navigate right and left,  ```Spacebar``` to jump. ```MouseClick``` while directing your mouse where you want your player to form a path. 
 
 You can choose the color you want from top left corner on gameplay
@@ -16,7 +20,7 @@ You can choose the color you want from top left corner on gameplay
 - ```Blue``` causes an auto jump effect to the player
 - ```Red``` temporary platform
 
-[Play link](https://rasta-bujo.itch.io/paint-your-world)
+
 
 ## Technologies and Engines used
 
