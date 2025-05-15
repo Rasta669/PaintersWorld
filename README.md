@@ -35,6 +35,7 @@ You can choose the color you want from top left corner on gameplay
 - We won the [B3 Buildhathon](https://x.com/b3dotfun/status/1907876588684980436)
 - Exposure to the B3 community
 - Guaranteed listing on BSMNT, expanding our visibility
+- Multiplayer features are in development, allowing friends to co-create and compete in shared colorful worlds
 - Early user testing & feedback loop on Base Sepolia testnet with engaged on-chain players
 - Proof of [transaction](https://base-sepolia.blockscout.com/token/0xb271283E6b7eCD8F56F0187934Cf11ffa9A953d9)
 
