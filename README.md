@@ -1,6 +1,8 @@
 # Paint Your World
 
-[![Paint Your World Gameplay](https://img.youtube.com/vi/QRN7zc9BvF0/0.jpg)](https://youtu.be/QRN7zc9BvF0)
+🎬 [Watch Paint Your World Gameplay on YouTube](https://youtu.be/QRN7zc9BvF0)
+
+
 
 
 ## Unique Value of the Game
