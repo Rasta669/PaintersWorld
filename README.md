@@ -8,6 +8,14 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 
 [Play link](https://rasta-bujo.itch.io/paint-your-world)
 
+## Technologies and Engines used
+
+- [Unity](https://unity.com/)
+- [Blender](https://www.blender.org/download/)
+- [Thirdweb](https://thirdweb.com/)
+- [Rosebud](https://rosebud.ai/)
+
+
 ## Progress & Distribution
 
 - We won the [B3 Buildhathon](https://x.com/b3dotfun/status/1907876588684980436)
