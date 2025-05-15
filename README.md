@@ -10,11 +10,11 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 
 ## Progress & Distribution
 
-- We won the B3 Buildhathon [https://x.com/b3dotfun/status/1907876588684980436](https://x.com/b3dotfun/status/1907876588684980436)
+- We won the [B3 Buildhathon](https://x.com/b3dotfun/status/1907876588684980436)
 - Exposure to the B3 community
 - Guaranteed listing on BSMNT, expanding our visibility
 - Early user testing & feedback loop on Base Sepolia testnet with engaged on-chain players
-- Proof of transactions [https://base-sepolia.blockscout.com/token/0xb271283E6b7eCD8F56F0187934Cf11ffa9A953d9](https://base-sepolia.blockscout.com/token/0xb271283E6b7eCD8F56F0187934Cf11ffa9A953d9)
+- Proof of [transaction](https://base-sepolia.blockscout.com/token/0xb271283E6b7eCD8F56F0187934Cf11ffa9A953d9)
 
 ## Target Audience
 
