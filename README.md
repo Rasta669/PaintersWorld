@@ -101,7 +101,7 @@ For contributions, collaborations, or inquiries about intellectual property, ple
 - **Discord**: Join our community on [Discord](https://discord.gg/Undiscoveredgoats)
 - **Twitter (X)**: Follow us on [Twitter](https://x.com/UndiscoveredGo2?t=DgcqB9OUMRt5UBg0IyoeIA&s=09)
 - **Instagram**: Check out our latest updates on [Instagram](https://www.instagram.com/undiscoveredgoats?igsh=MTg1cGdnY2NoNHp0cQ==)
-- **GitHub**: View our project and contribute on [GitHub](https://github.com/paintyourworld)
+- **GitHub**: View our project and contribute on [GitHub](https://github.com/Rasta669/PaintersWorld/tree/main)
 
 Stay connected for news, updates, and opportunities to get involved with "Paint Your World"!
 
