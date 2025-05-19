@@ -2,6 +2,17 @@
 
 🎬 [Watch Paint Your World Live Demo on YouTube](https://youtu.be/QRN7zc9BvF0)
 
+### How To Play
+
+The game is currently built for Webgl desktop, for future versions the game will support IOS, Androids, web mobile, PS% and XBOX series.
+
+Use `A`, `D` for left right navigation `Space` key for jumping and holding `click and directing where you want to paint. 
+
+You can also choose different platform colours from the top left corner menus;
+- `Red` - temporary
+- `Purple` - platformer
+- `Blue` - bouncy
+- `Yellow` - speed
 
 ## Unique Value of the Game
 
@@ -44,4 +55,19 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 - Color Challenges – leaderboard-based community events with $COLOR rewards
 - Partner with Base, Bario community & B3 for co-branded game weeks and seasonal events
 - Mobile-friendly experience to reach emerging on-chain players in Africa & Asia
+- Multiplayer features are in development, allowing friends to co-create and compete in shared colorful worlds.
+
+  ### Contacts and Social Media
+
+For contributions, collaborations, or inquiries about intellectual property, please reach out to us via the following channels:
+
+- **Email**: [contact@paintyourworld.com](mailto:contact@paintyourworld.com)
+- **Website**: [https://paintyourworld.com](https://paintyourworld.com)
+- **Discord**: Join our community on [Discord](https://discord.gg/paintyourworld)
+- **Twitter (X)**: Follow us on [Twitter](https://x.com/PaintYourWorld)
+- **Instagram**: Check out our latest updates on [Instagram](https://instagram.com/paintyourworld)
+- **GitHub**: View our project and contribute on [GitHub](https://github.com/paintyourworld)
   
+## License
+
+This project is dual-licensed under the Apache License 2.0 for code and the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License for assets. See the [LICENSE](LICENSE) file for details.
