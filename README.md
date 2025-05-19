@@ -1,6 +1,7 @@
 # Paint Your World
 
-![Paint Your World Gameplay](https://www.youtube.com/watch?v=QRN7zc9BvF0)
+🎬 [Watch Paint Your World Live Demo on YouTube](https://youtu.be/QRN7zc9BvF0)
+
 
 ## Unique Value of the Game
 
@@ -30,7 +31,7 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 - Players can earn and use $COLOR in-game without managing wallets or gas, with the option to claim assets later if they choose to onboard.
 - $COLOR is the core in-game token.
 
-Players use it to:
+###Players use it to:
 
 - Purchase visual upgrades, new levels, and special perks
 - Mint rare brushes or color sets as collectibles
@@ -43,3 +44,4 @@ Players use it to:
 - Color Challenges – leaderboard-based community events with $COLOR rewards
 - Partner with Base, Bario community & B3 for co-branded game weeks and seasonal events
 - Mobile-friendly experience to reach emerging on-chain players in Africa & Asia
+  
