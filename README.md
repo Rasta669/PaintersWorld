@@ -42,7 +42,7 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 - Players can earn and use $COLOR in-game without managing wallets or gas, with the option to claim assets later if they choose to onboard.
 - $COLOR is the core in-game token.
 
- ### Players use it to:
+ #### Players use it to:
 
 - Purchase visual upgrades, new levels, and special perks
 - Mint rare brushes or color sets as collectibles
