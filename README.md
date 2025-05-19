@@ -58,7 +58,7 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 - Mobile-friendly experience to reach emerging on-chain players in Africa & Asia
 - Multiplayer features are in development, allowing friends to co-create and compete in shared colorful worlds.
 
-  ### Contacts and Social Media
+### Contacts and Social Media
 
 For contributions, collaborations, or inquiries about intellectual property, please reach out to us via the following channels:
 
