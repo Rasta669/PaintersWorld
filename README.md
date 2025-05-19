@@ -52,6 +52,7 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 
 - Launch Demo on BSMNT – immediate exposure to 10k+ gamers
 - Creator Campaign – invite artists to co-create brushes as NFTs
+- Create mini-apps version  to unlock warpcast distribution
 - Color Challenges – leaderboard-based community events with $COLOR rewards
 - Partner with Base, Bario community & B3 for co-branded game weeks and seasonal events
 - Mobile-friendly experience to reach emerging on-chain players in Africa & Asia
@@ -61,12 +62,11 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 
 For contributions, collaborations, or inquiries about intellectual property, please reach out to us via the following channels:
 
-- **Email**: [contact@paintyourworld.com](mailto:contact@paintyourworld.com)
-- **Website**: [https://paintyourworld.com](https://paintyourworld.com)
-- **Discord**: Join our community on [Discord](https://discord.gg/paintyourworld)
-- **Twitter (X)**: Follow us on [Twitter](https://x.com/PaintYourWorld)
-- **Instagram**: Check out our latest updates on [Instagram](https://instagram.com/paintyourworld)
-- **GitHub**: View our project and contribute on [GitHub](https://github.com/paintyourworld)
+- **Email**: [undiscoveredgotas@gmail.com](undsicoveredgoats@gmail.com)
+- **Website**: [https://paintyourworld.com](https://www.undiscoveredgoats.xyz/)
+- **Twitter (X)**: Follow us on [Twitter](https://x.com/UndiscoveredGo2?t=DgcqB9OUMRt5UBg0IyoeIA&s=09)
+- **Instagram**: Check out our latest updates on [Instagram](https://www.instagram.com/undiscoveredgoats?igsh=MTg1cGdnY2NoNHp0cQ==)
+
   
 ## License
 
