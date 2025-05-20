@@ -4,7 +4,7 @@
 
 ### How To Play
 
-The game is currently built for Webgl desktop, for future versions the game will support IOS, Androids, web mobile, PS% and XBOX series.
+The game is currently built for Webgl desktop, for future versions the game will support IOS, Androids, web mobile, PS5 and XBOX series.
 
 Use `A`, `D` for left right navigation `Space` key for jumping and holding `click and directing where you want to paint. 
 
