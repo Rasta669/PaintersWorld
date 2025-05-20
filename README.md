@@ -14,17 +14,18 @@ You can also choose different platform colours from the top left corner menus;
 - `Blue` - bouncy
 - `Yellow` - speed
 
+[Play link](https://rasta-bujo.itch.io/paint-your-world)
+
 ## Unique Value of the Game
 
-A hand-drawn, color-based platformer where each brushstroke unlocks creativity and exploration—turning imagination into gameplay.
+Many platformers are rigid. Here, players literally paint their own path. Every decision—color choice, stroke placement—changes how they experience the level.
 
-[Play link](https://rasta-bujo.itch.io/paint-your-world)
 
 ## Progress & Distribution
 
-- We won the [B3 Buildhathon](https://x.com/b3dotfun/status/1907876588684980436)
+- The project won the B3 Buildhathon
 - Exposure to the B3 community
-- Guaranteed listing on BSMNT, expanding our visibility
+- Guaranteed listing on [BSMNT](https://x.com/b3dotfun/status/1907876588684980436), expanding our visibility
 - Early user testing & feedback loop on Base Sepolia testnet with engaged on-chain players
 - Proof of [transaction](https://base-sepolia.blockscout.com/token/0xb271283E6b7eCD8F56F0187934Cf11ffa9A953d9)
 
