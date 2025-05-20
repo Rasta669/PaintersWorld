@@ -14,7 +14,7 @@ You can also choose different platform colours from the top left corner menus;
 - `Blue` - bouncy
 - `Yellow` - speed
 
-[Play link](https://rasta-bujo.itch.io/paint-your-world)
+[Play link](https://rasta669.github.io/PYW_host/)
 
 ## Unique Value of the Game
 
