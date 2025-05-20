@@ -62,7 +62,7 @@ A hand-drawn, color-based platformer where each brushstroke unlocks creativity a
 
 For contributions, collaborations, or inquiries about intellectual property, please reach out to us via the following channels:
 
-- **Email**: [undiscoveredgotas@gmail.com](undsicoveredgoats@gmail.com)
+- **Email**: [undiscoveredgoats@gmail.com](undiscoveredgoats@gmail.com)
 - **Website**: [https://paintyourworld.com](https://www.undiscoveredgoats.xyz/)
 - **Twitter (X)**: Follow us on [Twitter](https://x.com/UndiscoveredGo2?t=DgcqB9OUMRt5UBg0IyoeIA&s=09)
 - **Instagram**: Check out our latest updates on [Instagram](https://www.instagram.com/undiscoveredgoats?igsh=MTg1cGdnY2NoNHp0cQ==)
